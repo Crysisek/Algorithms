@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Programowanie/C++/Algorytmy/Ksiazka telefoniczna/rb_tree.cpp
+rb_tree.h
+/cygdrive/d/Programowanie/C++/Algorytmy/Ksiazka telefoniczna/rb_tree.h
+iostream
+-
+fstream
+-
+queue
+-
+
+/cygdrive/d/Programowanie/C++/Algorytmy/Ksiazka telefoniczna/rb_tree.h
+string
+-
+

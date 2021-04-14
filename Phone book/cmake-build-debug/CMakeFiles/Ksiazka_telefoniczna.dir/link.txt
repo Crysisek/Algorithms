@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Ksiazka_telefoniczna.dir/main.cpp.o CMakeFiles/Ksiazka_telefoniczna.dir/rb_tree.cpp.o  -o Ksiazka_telefoniczna.exe -Wl,--out-implib,libKsiazka_telefoniczna.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
