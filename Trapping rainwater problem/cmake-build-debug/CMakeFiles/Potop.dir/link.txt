@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Potop.dir/main.cpp.o  -o Potop.exe -Wl,--out-implib,libPotop.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
