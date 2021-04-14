@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Symbol_Newtona.dir/main.c.o  -o Symbol_Newtona.exe -Wl,--out-implib,libSymbol_Newtona.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
