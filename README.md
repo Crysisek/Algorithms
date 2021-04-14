@@ -1,2 +1,2 @@
 # Algorithms
- Simple algorithm programs for university
+ Simple algorithm programs for university.
