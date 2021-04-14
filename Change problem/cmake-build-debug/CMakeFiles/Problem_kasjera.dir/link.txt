@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Problem_kasjera.dir/main.cpp.o  -o Problem_kasjera.exe -Wl,--out-implib,libProblem_kasjera.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
