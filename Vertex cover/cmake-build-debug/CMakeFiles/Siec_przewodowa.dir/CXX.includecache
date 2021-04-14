@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Programowanie/C++/Algorytmy/Siec przewodowa/approximately.h
+list
+-
+fstream
+-
+
+/cygdrive/d/Programowanie/C++/Algorytmy/Siec przewodowa/exact.h
+bits/stdc++.h
+-
+list
+-
+
+/cygdrive/d/Programowanie/C++/Algorytmy/Siec przewodowa/main.cpp
+exact.h
+/cygdrive/d/Programowanie/C++/Algorytmy/Siec przewodowa/exact.h
+approximately.h
+/cygdrive/d/Programowanie/C++/Algorytmy/Siec przewodowa/approximately.h
+string
+-
+sstream
+-
+
